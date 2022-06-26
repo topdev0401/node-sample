@@ -1,0 +1,3640 @@
+[
+  {
+    "name": "Afghanistan",
+    "nationality": "Afghan",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "4",
+      "alpha2": "AF",
+      "alpha3": "AFG"
+    }
+  },
+  {
+    "name": "Albania",
+    "nationality": "Albanian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "8",
+      "alpha2": "AL",
+      "alpha3": "ALB"
+    }
+  },
+  {
+    "name": "Algeria",
+    "nationality": "Algerian",
+    "continent": "AF",
+    "region":"MENA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "12",
+      "alpha2": "DZ",
+      "alpha3": "DZA"
+    }
+  },
+  {
+    "name": "American Samoa",
+    "nationality": "American Samoan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "16",
+      "alpha2": "AS",
+      "alpha3": "ASM"
+    }
+  },
+  {
+    "name": "Andorra",
+    "nationality": "Andorran",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "20",
+      "alpha2": "AD",
+      "alpha3": "AND"
+    }
+  },
+  {
+    "name": "Angola",
+    "nationality": "Angolan",
+    "continent": "AF",
+    "region" : "Central Africa",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "24",
+      "alpha2": "AO",
+      "alpha3": "AGO"
+    }
+  },
+  {
+    "name": "Anguilla",
+    "nationality": "Anguillan",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "660",
+      "alpha2": "AI",
+      "alpha3": "AIA"
+    }
+  },
+  {
+    "name": "Antarctica",
+    "nationality": "Antarctic",
+    "continent": "AN",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "10",
+      "alpha2": "AQ",
+      "alpha3": "ATA"
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "nationality": "Antiguan or Barbudan",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "28",
+      "alpha2": "AG",
+      "alpha3": "ATG"
+    }
+  },
+  {
+    "name": "Argentina",
+    "nationality": "Argentine",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "32",
+      "alpha2": "AR",
+      "alpha3": "ARG"
+    }
+  },
+  {
+    "name": "Armenia",
+    "nationality": "Armenian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "51",
+      "alpha2": "AM",
+      "alpha3": "ARM"
+    }
+  },
+  {
+    "name": "Aruba",
+    "nationality": "Aruban",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "533",
+      "alpha2": "AW",
+      "alpha3": "ABW"
+    }
+  },
+  {
+    "name": "Australia",
+    "nationality": "Australian",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "36",
+      "alpha2": "AU",
+      "alpha3": "AUS"
+    }
+  },
+  {
+    "name": "Austria",
+    "nationality": "Austrian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "40",
+      "alpha2": "AT",
+      "alpha3": "AUT"
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "nationality": "Azerbaijani, Azeri",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "31",
+      "alpha2": "AZ",
+      "alpha3": "AZE"
+    }
+  },
+  {
+    "name": "Bahamas",
+    "nationality": "Bahamian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "44",
+      "alpha2": "BS",
+      "alpha3": "BHS"
+    }
+  },
+  {
+    "name": "Bahrain",
+    "nationality": "Bahraini",
+    "continent": "AS",
+    "region":"MENA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "48",
+      "alpha2": "BH",
+      "alpha3": "BHR"
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "nationality": "Bangladeshi",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "50",
+      "alpha2": "BD",
+      "alpha3": "BGD"
+    }
+  },
+  {
+    "name": "Barbados",
+    "nationality": "Barbadian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "52",
+      "alpha2": "BB",
+      "alpha3": "BRB"
+    }
+  },
+  {
+    "name": "Belarus",
+    "nationality": "Belarusian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "112",
+      "alpha2": "BY",
+      "alpha3": "BLR"
+    }
+  },
+  {
+    "name": "Belgium",
+    "nationality": "Belgian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "56",
+      "alpha2": "BE",
+      "alpha3": "BEL"
+    }
+  },
+  {
+    "name": "Belize",
+    "nationality": "Belizean",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "84",
+      "alpha2": "BZ",
+      "alpha3": "BLZ"
+    }
+  },
+  {
+    "name": "Benin",
+    "nationality": "Beninese, Beninois",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "204",
+      "alpha2": "BJ",
+      "alpha3": "BEN"
+    }
+  },
+  {
+    "name": "Bermuda",
+    "nationality": "Bermudian, Bermudan",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "60",
+      "alpha2": "BM",
+      "alpha3": "BMU"
+    }
+  },
+  {
+    "name": "Bhutan",
+    "nationality": "Bhutanese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "64",
+      "alpha2": "BT",
+      "alpha3": "BTN"
+    }
+  },
+  {
+    "name": "Bolivia",
+    "nationality": "Bolivian",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "68",
+      "alpha2": "BO",
+      "alpha3": "BOL"
+    }
+  },
+  {
+    "name": "Bonaire",
+    "nationality": "Bonaire",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "535",
+      "alpha2": "BQ",
+      "alpha3": "BES"
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "nationality": "Bosnian or Herzegovinian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "70",
+      "alpha2": "BA",
+      "alpha3": "BIH"
+    }
+  },
+  {
+    "name": "Botswana",
+    "nationality": "Motswana, Botswanan",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "72",
+      "alpha2": "BW",
+      "alpha3": "BWA"
+    }
+  },
+  {
+    "name": "Bouvet Island",
+    "nationality": "Bouvet Island",
+    "continent": "AN",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "74",
+      "alpha2": "BV",
+      "alpha3": "BVT"
+    }
+  },
+  {
+    "name": "Brazil",
+    "nationality": "Brazilian",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "76",
+      "alpha2": "BR",
+      "alpha3": "BRA"
+    }
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "nationality": "BIOT",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "86",
+      "alpha2": "IO",
+      "alpha3": "IOT"
+    }
+  },
+  {
+    "name": "British Virgin Islands",
+    "nationality": "British Virgin Island",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "92",
+      "alpha2": "VG",
+      "alpha3": "VGB"
+    }
+  },
+  {
+    "name": "Brunei",
+    "nationality": "Bruneian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "96",
+      "alpha2": "BN",
+      "alpha3": "BRN"
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "nationality": "Bulgarian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "100",
+      "alpha2": "BG",
+      "alpha3": "BGR"
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "nationality": "Burkinabé",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "854",
+      "alpha2": "BF",
+      "alpha3": "BFA"
+    }
+  },
+  {
+    "name": "Burundi",
+    "nationality": "Burundian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "108",
+      "alpha2": "BI",
+      "alpha3": "BDI"
+    }
+  },
+  {
+    "name": "Cambodia",
+    "nationality": "Cambodian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "116",
+      "alpha2": "KH",
+      "alpha3": "KHM"
+    }
+  },
+  {
+    "name": "Cameroon",
+    "nationality": "Cameroonian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "120",
+      "alpha2": "CM",
+      "alpha3": "CMR"
+    }
+  },
+  {
+    "name": "Canada",
+    "nationality": "Canadian",
+    "continent": "NA",
+    "region" : "Northern America",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "124",
+      "alpha2": "CA",
+      "alpha3": "CAN"
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "alternateNames": [
+      "Cabo Verde"
+    ],
+    "nationality": "Cabo Verdean",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "132",
+      "alpha2": "CV",
+      "alpha3": "CPV"
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "nationality": "Caymanian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "136",
+      "alpha2": "KY",
+      "alpha3": "CYM"
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "nationality": "Central African",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "140",
+      "alpha2": "CF",
+      "alpha3": "CAF"
+    }
+  },
+  {
+    "name": "Chad",
+    "nationality": "Chadian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "148",
+      "alpha2": "TD",
+      "alpha3": "TCD"
+    }
+  },
+  {
+    "name": "Chile",
+    "nationality": "Chilean",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "152",
+      "alpha2": "CL",
+      "alpha3": "CHL"
+    }
+  },
+  {
+    "name": "China",
+    "nationality": "Chinese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "156",
+      "alpha2": "CN",
+      "alpha3": "CHN"
+    }
+  },
+  {
+    "name": "Christmas Island",
+    "nationality": "Christmas Island",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "162",
+      "alpha2": "CX",
+      "alpha3": "CXR"
+    }
+  },
+  {
+    "name": "Cocos [Keeling] Islands",
+    "nationality": "Cocos Island",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "166",
+      "alpha2": "CC",
+      "alpha3": "CCK"
+    }
+  },
+  {
+    "name": "Colombia",
+    "nationality": "Colombian",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "170",
+      "alpha2": "CO",
+      "alpha3": "COL"
+    }
+  },
+  {
+    "name": "Comoros",
+    "nationality": "Comoran, Comorian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "174",
+      "alpha2": "KM",
+      "alpha3": "COM"
+    }
+  },
+  {
+    "name": "Cook Islands",
+    "nationality": "Cook Island",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "184",
+      "alpha2": "CK",
+      "alpha3": "COK"
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "nationality": "Costa Rican",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "188",
+      "alpha2": "CR",
+      "alpha3": "CRI"
+    }
+  },
+  {
+    "name": "Croatia",
+    "nationality": "Croatian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "191",
+      "alpha2": "HR",
+      "alpha3": "HRV"
+    }
+  },
+  {
+    "name": "Cuba",
+    "nationality": "Cuban",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "192",
+      "alpha2": "CU",
+      "alpha3": "CUB"
+    }
+  },
+  {
+    "name": "Curacao",
+    "nationality": "Curaçaoan",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "531",
+      "alpha2": "CW",
+      "alpha3": "CUW"
+    }
+  },
+  {
+    "name": "Cyprus",
+    "nationality": "Cypriot",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "196",
+      "alpha2": "CY",
+      "alpha3": "CYP"
+    }
+  },
+  {
+    "name": "Czech Republic",
+    "nationality": "Czech",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "203",
+      "alpha2": "CZ",
+      "alpha3": "CZE"
+    }
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "alternateNames": [
+      "Democratic Republic of Congo"
+    ],
+    "nationality": "Congolese",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "180",
+      "alpha2": "CD",
+      "alpha3": "COD"
+    }
+  },
+  {
+    "name": "Denmark",
+    "nationality": "Danish",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "208",
+      "alpha2": "DK",
+      "alpha3": "DNK"
+    }
+  },
+  {
+    "name": "Djibouti",
+    "nationality": "Djiboutian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "262",
+      "alpha2": "DJ",
+      "alpha3": "DJI"
+    }
+  },
+  {
+    "name": "Dominica",
+    "nationality": "Dominican",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "212",
+      "alpha2": "DM",
+      "alpha3": "DMA"
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "nationality": "Dominican",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "214",
+      "alpha2": "DO",
+      "alpha3": "DOM"
+    }
+  },
+  {
+    "name": "East Timor",
+    "nationality": "Timorese",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "626",
+      "alpha2": "TL",
+      "alpha3": "TLS"
+    }
+  },
+  {
+    "name": "Ecuador",
+    "nationality": "Ecuadorian",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "218",
+      "alpha2": "EC",
+      "alpha3": "ECU"
+    }
+  },
+  {
+    "name": "Egypt",
+    "nationality": "Egyptian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "818",
+      "alpha2": "EG",
+      "alpha3": "EGY"
+    }
+  },
+  {
+    "name": "El Salvador",
+    "nationality": "Salvadoran",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "222",
+      "alpha2": "SV",
+      "alpha3": "SLV"
+    }
+  },
+  {
+    "name": "England",
+    "nationality": "English",
+    "code": {
+      "subdivision": "GB-ENG"
+    },
+    "hasSubdivision": false,
+    "continent": "EU"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "nationality": "Equatorial Guinean, Equatoguinean",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "226",
+      "alpha2": "GQ",
+      "alpha3": "GNQ"
+    }
+  },
+  {
+    "name": "Eritrea",
+    "nationality": "Eritrean",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "232",
+      "alpha2": "ER",
+      "alpha3": "ERI"
+    }
+  },
+  {
+    "name": "Estonia",
+    "nationality": "Estonian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "233",
+      "alpha2": "EE",
+      "alpha3": "EST"
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "nationality": "Ethiopian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "231",
+      "alpha2": "ET",
+      "alpha3": "ETH"
+    }
+  },
+  {
+    "name": "Falkland Islands",
+    "nationality": "Falkland Island",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "238",
+      "alpha2": "FK",
+      "alpha3": "FLK"
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "nationality": "Faroese",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "234",
+      "alpha2": "FO",
+      "alpha3": "FRO"
+    }
+  },
+  {
+    "name": "Fiji",
+    "nationality": "Fijian",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "242",
+      "alpha2": "FJ",
+      "alpha3": "FJI"
+    }
+  },
+  {
+    "name": "Finland",
+    "nationality": "Finnish",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "246",
+      "alpha2": "FI",
+      "alpha3": "FIN"
+    }
+  },
+  {
+    "name": "France",
+    "nationality": "French",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "250",
+      "alpha2": "FR",
+      "alpha3": "FRA"
+    }
+  },
+  {
+    "name": "French Guiana",
+    "nationality": "French Guianese",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "254",
+      "alpha2": "GF",
+      "alpha3": "GUF"
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "nationality": "French Polynesian",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "258",
+      "alpha2": "PF",
+      "alpha3": "PYF"
+    }
+  },
+  {
+    "name": "French Southern Territories",
+    "nationality": "French Southern Territories",
+    "continent": "AN",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "260",
+      "alpha2": "TF",
+      "alpha3": "ATF"
+    }
+  },
+  {
+    "name": "Gabon",
+    "nationality": "Gabonese",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "266",
+      "alpha2": "GA",
+      "alpha3": "GAB"
+    }
+  },
+  {
+    "name": "Gambia",
+    "nationality": "Gambian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "270",
+      "alpha2": "GM",
+      "alpha3": "GMB"
+    }
+  },
+  {
+    "name": "Georgia",
+    "nationality": "Georgian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "268",
+      "alpha2": "US-GA",
+      "alpha3": "GEO"
+    }
+  },
+  {
+    "name": "Germany",
+    "nationality": "German",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "276",
+      "alpha2": "DE",
+      "alpha3": "DEU"
+    }
+  },
+  {
+    "name": "Ghana",
+    "nationality": "Ghanaian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "288",
+      "alpha2": "GH",
+      "alpha3": "GHA"
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "nationality": "Gibraltar",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "292",
+      "alpha2": "GI",
+      "alpha3": "GIB"
+    }
+  },
+  {
+    "name": "Greece",
+    "nationality": "Greek, Hellenic",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "300",
+      "alpha2": "GR",
+      "alpha3": "GRC"
+    }
+  },
+  {
+    "name": "Greenland",
+    "nationality": "Greenlandic",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "304",
+      "alpha2": "GL",
+      "alpha3": "GRL"
+    }
+  },
+  {
+    "name": "Grenada",
+    "nationality": "Grenadian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "308",
+      "alpha2": "GD",
+      "alpha3": "GRD"
+    }
+  },
+  {
+    "name": "Guadeloupe",
+    "nationality": "Guadeloupe",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "312",
+      "alpha2": "GP",
+      "alpha3": "GLP"
+    }
+  },
+  {
+    "name": "Guam",
+    "nationality": "Guamanian, Guambat",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "316",
+      "alpha2": "GU",
+      "alpha3": "GUM"
+    }
+  },
+  {
+    "name": "Guatemala",
+    "nationality": "Guatemalan",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "320",
+      "alpha2": "GT",
+      "alpha3": "GTM"
+    }
+  },
+  {
+    "name": "Guernsey",
+    "nationality": "Channel Island",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "831",
+      "alpha2": "GG",
+      "alpha3": "GGY"
+    }
+  },
+  {
+    "name": "Guinea",
+    "nationality": "Guinean",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "324",
+      "alpha2": "GN",
+      "alpha3": "GIN"
+    }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "nationality": "Bissau-Guinean",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "624",
+      "alpha2": "GW",
+      "alpha3": "GNB"
+    }
+  },
+  {
+    "name": "Guyana",
+    "nationality": "Guyanese",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "328",
+      "alpha2": "GY",
+      "alpha3": "GUY"
+    }
+  },
+  {
+    "name": "Haiti",
+    "nationality": "Haitian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "332",
+      "alpha2": "HT",
+      "alpha3": "HTI"
+    }
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "nationality": "Heard Island or McDonald Islands",
+    "continent": "AN",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "334",
+      "alpha2": "HM",
+      "alpha3": "HMD"
+    }
+  },
+  {
+    "name": "Honduras",
+    "nationality": "Honduran",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "340",
+      "alpha2": "HN",
+      "alpha3": "HND"
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "nationality": "Hong Kong, Hong Kongese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "344",
+      "alpha2": "HK",
+      "alpha3": "HKG"
+    }
+  },
+  {
+    "name": "Hungary",
+    "nationality": "Hungarian, Magyar",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "348",
+      "alpha2": "HU",
+      "alpha3": "HUN"
+    }
+  },
+  {
+    "name": "Iceland",
+    "nationality": "Icelandic",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "352",
+      "alpha2": "IS",
+      "alpha3": "ISL"
+    }
+  },
+  {
+    "name": "India",
+    "nationality": "Indian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "356",
+      "alpha2": "IN",
+      "alpha3": "IND"
+    }
+  },
+  {
+    "name": "Indonesia",
+    "nationality": "Indonesian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "360",
+      "alpha2": "ID",
+      "alpha3": "IDN"
+    }
+  },
+  {
+    "name": "Iran",
+    "nationality": "Iranian, Persian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "364",
+      "alpha2": "IR",
+      "alpha3": "IRN"
+    }
+  },
+  {
+    "name": "Iraq",
+    "nationality": "Iraqi",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "368",
+      "alpha2": "IQ",
+      "alpha3": "IRQ"
+    }
+  },
+  {
+    "name": "Ireland",
+    "nationality": "Irish",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "372",
+      "alpha2": "IE",
+      "alpha3": "IRL"
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "nationality": "Manx",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "833",
+      "alpha2": "IM",
+      "alpha3": "IMN"
+    }
+  },
+  {
+    "name": "Israel",
+    "nationality": "Israeli",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "376",
+      "alpha2": "IL",
+      "alpha3": "ISR"
+    }
+  },
+  {
+    "name": "Italy",
+    "nationality": "Italian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "380",
+      "alpha2": "IT",
+      "alpha3": "ITA"
+    }
+  },
+  {
+    "name": "Ivory Coast",
+    "alternateNames": [
+      "Côte d'Ivoire",
+      "Cote d'Ivoire"
+    ],
+    "nationality": "Ivorian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "384",
+      "alpha2": "CI",
+      "alpha3": "CIV"
+    }
+  },
+  {
+    "name": "Jamaica",
+    "nationality": "Jamaican",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "388",
+      "alpha2": "JM",
+      "alpha3": "JAM"
+    }
+  },
+  {
+    "name": "Japan",
+    "nationality": "Japanese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "392",
+      "alpha2": "JP",
+      "alpha3": "JPN"
+    }
+  },
+  {
+    "name": "Jersey",
+    "nationality": "Channel Island",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "832",
+      "alpha2": "JE",
+      "alpha3": "JEY"
+    }
+  },
+  {
+    "name": "Jordan",
+    "nationality": "Jordanian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "400",
+      "alpha2": "JO",
+      "alpha3": "JOR"
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "nationality": "Kazakhstani, Kazakh",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "398",
+      "alpha2": "KZ",
+      "alpha3": "KAZ"
+    }
+  },
+  {
+    "name": "Kenya",
+    "nationality": "Kenyan",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "404",
+      "alpha2": "KE",
+      "alpha3": "KEN"
+    }
+  },
+  {
+    "name": "Kiribati",
+    "nationality": "I-Kiribati",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "296",
+      "alpha2": "KI",
+      "alpha3": "KIR"
+    }
+  },
+  {
+    "name": "Kuwait",
+    "nationality": "Kuwaiti",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "414",
+      "alpha2": "KW",
+      "alpha3": "KWT"
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "417",
+      "alpha2": "KG",
+      "alpha3": "KGZ"
+    }
+  },
+  {
+    "name": "Laos",
+    "nationality": "Lao, Laotian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "418",
+      "alpha2": "LA",
+      "alpha3": "LAO"
+    }
+  },
+  {
+    "name": "Latvia",
+    "nationality": "Latvian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "428",
+      "alpha2": "LV",
+      "alpha3": "LVA"
+    }
+  },
+  {
+    "name": "Lebanon",
+    "nationality": "Lebanese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "422",
+      "alpha2": "LB",
+      "alpha3": "LBN"
+    }
+  },
+  {
+    "name": "Lesotho",
+    "nationality": "Basotho",
+    "continent": "AF",
+    "region":"Southern Africa",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "426",
+      "alpha2": "LS",
+      "alpha3": "LSO"
+    }
+  },
+  {
+    "name": "Liberia",
+    "nationality": "Liberian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "430",
+      "alpha2": "LR",
+      "alpha3": "LBR"
+    }
+  },
+  {
+    "name": "Libya",
+    "nationality": "Libyan",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "434",
+      "alpha2": "LY",
+      "alpha3": "LBY"
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "nationality": "Liechtenstein",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "438",
+      "alpha2": "LI",
+      "alpha3": "LIE"
+    }
+  },
+  {
+    "name": "Lithuania",
+    "nationality": "Lithuanian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "440",
+      "alpha2": "LT",
+      "alpha3": "LTU"
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "nationality": "Luxembourg, Luxembourgish",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "442",
+      "alpha2": "LU",
+      "alpha3": "LUX"
+    }
+  },
+  {
+    "name": "Macao",
+    "nationality": "Macanese, Chinese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "446",
+      "alpha2": "MO",
+      "alpha3": "MAC"
+    }
+  },
+  {
+    "name": "Madagascar",
+    "nationality": "Malagasy",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "450",
+      "alpha2": "MG",
+      "alpha3": "MDG"
+    }
+  },
+  {
+    "name": "Malawi",
+    "nationality": "Malawian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "454",
+      "alpha2": "MW",
+      "alpha3": "MWI"
+    }
+  },
+  {
+    "name": "Malaysia",
+    "nationality": "Malaysian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "458",
+      "alpha2": "MY",
+      "alpha3": "MYS"
+    }
+  },
+  {
+    "name": "Maldives",
+    "nationality": "Maldivian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "462",
+      "alpha2": "MV",
+      "alpha3": "MDV"
+    }
+  },
+  {
+    "name": "Mali",
+    "nationality": "Malian, Malinese",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "466",
+      "alpha2": "ML",
+      "alpha3": "MLI"
+    }
+  },
+  {
+    "name": "Malta",
+    "nationality": "Maltese",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "470",
+      "alpha2": "MT",
+      "alpha3": "MLT"
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "nationality": "Marshallese",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "584",
+      "alpha2": "MH",
+      "alpha3": "MHL"
+    }
+  },
+  {
+    "name": "Martinique",
+    "nationality": "Martiniquais, Martinican",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "474",
+      "alpha2": "MQ",
+      "alpha3": "MTQ"
+    }
+  },
+  {
+    "name": "Mauritania",
+    "nationality": "Mauritanian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "478",
+      "alpha2": "MR",
+      "alpha3": "MRT"
+    }
+  },
+  {
+    "name": "Mauritius",
+    "nationality": "Mauritian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "480",
+      "alpha2": "MU",
+      "alpha3": "MUS"
+    }
+  },
+  {
+    "name": "Mayotte",
+    "nationality": "Mahoran",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "175",
+      "alpha2": "YT",
+      "alpha3": "MYT"
+    }
+  },
+  {
+    "name": "Mexico",
+    "nationality": "Mexican",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "484",
+      "alpha2": "MX",
+      "alpha3": "MEX"
+    }
+  },
+  {
+    "name": "Micronesia",
+    "nationality": "Micronesian",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "583",
+      "alpha2": "FM",
+      "alpha3": "FSM"
+    }
+  },
+  {
+    "name": "Moldova",
+    "nationality": "Moldovan",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "498",
+      "alpha2": "MD",
+      "alpha3": "MDA"
+    }
+  },
+  {
+    "name": "Monaco",
+    "nationality": "Monégasque, Monacan",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "492",
+      "alpha2": "MC",
+      "alpha3": "MCO"
+    }
+  },
+  {
+    "name": "Mongolia",
+    "nationality": "Mongolian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "496",
+      "alpha2": "MN",
+      "alpha3": "MNG"
+    }
+  },
+  {
+    "name": "Montenegro",
+    "nationality": "Montenegrin",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "499",
+      "alpha2": "ME",
+      "alpha3": "MNE"
+    }
+  },
+  {
+    "name": "Montserrat",
+    "nationality": "Montserratian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "500",
+      "alpha2": "MS",
+      "alpha3": "MSR"
+    }
+  },
+  {
+    "name": "Morocco",
+    "nationality": "Moroccan",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "504",
+      "alpha2": "MA",
+      "alpha3": "MAR"
+    }
+  },
+  {
+    "name": "Mozambique",
+    "nationality": "Mozambican",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "508",
+      "alpha2": "MZ",
+      "alpha3": "MOZ"
+    }
+  },
+  {
+    "name": "Myanmar",
+    "alternateNames": [
+      "Burma"
+    ],
+    "nationality": "Burmese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "104",
+      "alpha2": "MM",
+      "alpha3": "MMR"
+    }
+  },
+  {
+    "name": "Namibia",
+    "nationality": "Namibian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "516",
+      "alpha2": "NA",
+      "alpha3": "NAM"
+    }
+  },
+  {
+    "name": "Nauru",
+    "nationality": "Nauruan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "520",
+      "alpha2": "NR",
+      "alpha3": "NRU"
+    }
+  },
+  {
+    "name": "Nepal",
+    "nationality": "Nepali, Nepalese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "524",
+      "alpha2": "NP",
+      "alpha3": "NPL"
+    }
+  },
+  {
+    "name": "Netherlands",
+    "nationality": "Dutch, Netherlandic",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "528",
+      "alpha2": "NL",
+      "alpha3": "NLD"
+    }
+  },
+  {
+    "name": "New Caledonia",
+    "nationality": "New Caledonian",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "540",
+      "alpha2": "NC",
+      "alpha3": "NCL"
+    }
+  },
+  {
+    "name": "New Zealand",
+    "nationality": "New Zealand, NZ",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "554",
+      "alpha2": "NZ",
+      "alpha3": "NZL"
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "nationality": "Nicaraguan",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "558",
+      "alpha2": "NI",
+      "alpha3": "NIC"
+    }
+  },
+  {
+    "name": "Niger",
+    "nationality": "Nigerien",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "562",
+      "alpha2": "NE",
+      "alpha3": "NER"
+    }
+  },
+  {
+    "name": "Nigeria",
+    "nationality": "Nigerian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "566",
+      "alpha2": "NG",
+      "alpha3": "NGA"
+    }
+  },
+  {
+    "name": "Niue",
+    "nationality": "Niuean",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "570",
+      "alpha2": "NU",
+      "alpha3": "NIU"
+    }
+  },
+  {
+    "name": "Norfolk Island",
+    "nationality": "Norfolk Island",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "574",
+      "alpha2": "NF",
+      "alpha3": "NFK"
+    }
+  },
+  {
+    "name": "North Korea",
+    "nationality": "North Korean",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "408",
+      "alpha2": "KP",
+      "alpha3": "PRK"
+    }
+  },
+  {
+    "name": "North Macedonia",
+    "nationality": "Macedonian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "807",
+      "alpha2": "MK",
+      "alpha3": "MKD"
+    }
+  },
+  {
+    "name": "Northern Ireland",
+    "nationality": "Irish",
+    "code": {
+      "subdivision": "GB-NIR"
+    },
+    "hasSubdivision": false,
+    "continent": "EU"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "nationality": "Northern Marianan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "580",
+      "alpha2": "MP",
+      "alpha3": "MNP"
+    }
+  },
+  {
+    "name": "Norway",
+    "nationality": "Norwegian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "578",
+      "alpha2": "NO",
+      "alpha3": "NOR"
+    }
+  },
+  {
+    "name": "Oman",
+    "nationality": "Omani",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "512",
+      "alpha2": "OM",
+      "alpha3": "OMN"
+    }
+  },
+  {
+    "name": "Pakistan",
+    "nationality": "Pakistani",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "586",
+      "alpha2": "PK",
+      "alpha3": "PAK"
+    }
+  },
+  {
+    "name": "Palau",
+    "nationality": "Palauan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "585",
+      "alpha2": "PW",
+      "alpha3": "PLW"
+    }
+  },
+  {
+    "name": "Palestine",
+    "nationality": "Palestinian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "275",
+      "alpha2": "PS",
+      "alpha3": "PSE"
+    }
+  },
+  {
+    "name": "Panama",
+    "nationality": "Panamanian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "591",
+      "alpha2": "PA",
+      "alpha3": "PAN"
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "nationality": "Papua New Guinean, Papuan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "598",
+      "alpha2": "PG",
+      "alpha3": "PNG"
+    }
+  },
+  {
+    "name": "Paraguay",
+    "nationality": "Paraguayan",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "600",
+      "alpha2": "PY",
+      "alpha3": "PRY"
+    }
+  },
+  {
+    "name": "Peru",
+    "nationality": "Peruvian",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "604",
+      "alpha2": "PE",
+      "alpha3": "PER"
+    }
+  },
+  {
+    "name": "Philippines",
+    "nationality": "Philippine, Filipino",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "608",
+      "alpha2": "PH",
+      "alpha3": "PHL"
+    }
+  },
+  {
+    "name": "Pitcairn Islands",
+    "nationality": "Pitcairn Island",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "612",
+      "alpha2": "PN",
+      "alpha3": "PCN"
+    }
+  },
+  {
+    "name": "Poland",
+    "nationality": "Polish",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "616",
+      "alpha2": "PL",
+      "alpha3": "POL"
+    }
+  },
+  {
+    "name": "Portugal",
+    "nationality": "Portuguese",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "620",
+      "alpha2": "PT",
+      "alpha3": "PRT"
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "nationality": "Puerto Rican",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "630",
+      "alpha2": "PR",
+      "alpha3": "PRI"
+    }
+  },
+  {
+    "name": "Qatar",
+    "nationality": "Qatari",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "634",
+      "alpha2": "QA",
+      "alpha3": "QAT"
+    }
+  },
+  {
+    "name": "Republic of the Congo",
+    "nationality": "Congolese",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "178",
+      "alpha2": "CG",
+      "alpha3": "COG"
+    }
+  },
+  {
+    "name": "Romania",
+    "nationality": "Romanian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "642",
+      "alpha2": "RO",
+      "alpha3": "ROU"
+    }
+  },
+  {
+    "name": "Russia",
+    "nationality": "Russian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "643",
+      "alpha2": "RU",
+      "alpha3": "RUS"
+    }
+  },
+  {
+    "name": "Rwanda",
+    "nationality": "Rwandan",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "646",
+      "alpha2": "RW",
+      "alpha3": "RWA"
+    }
+  },
+  {
+    "name": "Réunion",
+    "alternateNames": [
+      "Reunion"
+    ],
+    "nationality": "Réunionese, Réunionnais",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "638",
+      "alpha2": "RE",
+      "alpha3": "REU"
+    }
+  },
+  {
+    "name": "Saint Barthélemy",
+    "nationality": "Barthélemois",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "652",
+      "alpha2": "BL",
+      "alpha3": "BLM"
+    }
+  },
+  {
+    "name": "Saint Helena",
+    "nationality": "Saint Helenian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "654",
+      "alpha2": "SH",
+      "alpha3": "SHN"
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "alternateNames": [
+      "St. Kitts-Nevis"
+    ],
+    "nationality": "Kittitian or Nevisian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "659",
+      "alpha2": "KN",
+      "alpha3": "KNA"
+    }
+  },
+  {
+    "name": "Saint Lucia",
+    "nationality": "Saint Lucian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "662",
+      "alpha2": "LC",
+      "alpha3": "LCA"
+    }
+  },
+  {
+    "name": "Saint Martin",
+    "nationality": "Saint-Martinoise",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "663",
+      "alpha2": "MF",
+      "alpha3": "MAF"
+    }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "nationality": "Saint-Pierrais or Miquelonnais",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "666",
+      "alpha2": "PM",
+      "alpha3": "SPM"
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "alternateNames": [
+      "St. Vincent & the Grenadines"
+    ],
+    "nationality": "Saint Vincentian, Vincentian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "670",
+      "alpha2": "VC",
+      "alpha3": "VCT"
+    }
+  },
+  {
+    "name": "Samoa",
+    "nationality": "Samoan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "882",
+      "alpha2": "WS",
+      "alpha3": "WSM"
+    }
+  },
+  {
+    "name": "San Marino",
+    "nationality": "Sammarinese",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "674",
+      "alpha2": "SM",
+      "alpha3": "SMR"
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "nationality": "Saudi, Saudi Arabian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "682",
+      "alpha2": "SA",
+      "alpha3": "SAU"
+    }
+  },
+  {
+    "name": "Scotland",
+    "nationality": "Scottish",
+    "code": {
+      "subdivision": "GB-SCT"
+    },
+    "hasSubdivision": false,
+    "continent": "EU"
+  },
+  {
+    "name": "Senegal",
+    "nationality": "Senegalese",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "686",
+      "alpha2": "SN",
+      "alpha3": "SEN"
+    }
+  },
+  {
+    "name": "Serbia",
+    "nationality": "Serbian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "688",
+      "alpha2": "RS",
+      "alpha3": "SRB"
+    }
+  },
+  {
+    "name": "Seychelles",
+    "nationality": "Seychellois",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "690",
+      "alpha2": "SC",
+      "alpha3": "SYC"
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "nationality": "Sierra Leonean",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "694",
+      "alpha2": "SL",
+      "alpha3": "SLE"
+    }
+  },
+  {
+    "name": "Singapore",
+    "nationality": "Singaporean",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "702",
+      "alpha2": "SG",
+      "alpha3": "SGP"
+    }
+  },
+  {
+    "name": "Sint Maarten",
+    "nationality": "Sint Maarten",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "534",
+      "alpha2": "SX",
+      "alpha3": "SXM"
+    }
+  },
+  {
+    "name": "Slovakia",
+    "nationality": "Slovak",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "703",
+      "alpha2": "SK",
+      "alpha3": "SVK"
+    }
+  },
+  {
+    "name": "Slovenia",
+    "nationality": "Slovenian, Slovene",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "705",
+      "alpha2": "SI",
+      "alpha3": "SVN"
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "nationality": "Solomon Island",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "90",
+      "alpha2": "SB",
+      "alpha3": "SLB"
+    }
+  },
+  {
+    "name": "Somalia",
+    "nationality": "Somali, Somalian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "706",
+      "alpha2": "SO",
+      "alpha3": "SOM"
+    }
+  },
+  {
+    "name": "South Africa",
+    "nationality": "South African",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "710",
+      "alpha2": "ZA",
+      "alpha3": "ZAF"
+    }
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "nationality": "South Georgia or South Sandwich Islands",
+    "continent": "AN",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "239",
+      "alpha2": "GS",
+      "alpha3": "SGS"
+    }
+  },
+  {
+    "name": "South Korea",
+    "nationality": "South Korean",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "410",
+      "alpha2": "KR",
+      "alpha3": "KOR"
+    }
+  },
+  {
+    "name": "South Sudan",
+    "nationality": "South Sudanese",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "728",
+      "alpha2": "SS",
+      "alpha3": "SSD"
+    }
+  },
+  {
+    "name": "Spain",
+    "nationality": "Spanish",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "724",
+      "alpha2": "ES",
+      "alpha3": "ESP"
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "nationality": "Sri Lankan",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "144",
+      "alpha2": "LK",
+      "alpha3": "LKA"
+    }
+  },
+  {
+    "name": "Sudan",
+    "nationality": "Sudanese",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "729",
+      "alpha2": "SD",
+      "alpha3": "SDN"
+    }
+  },
+  {
+    "name": "Suriname",
+    "nationality": "Surinamese",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "740",
+      "alpha2": "SR",
+      "alpha3": "SUR"
+    }
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "nationality": "Svalbard",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "744",
+      "alpha2": "SJ",
+      "alpha3": "SJM"
+    }
+  },
+  {
+    "name": "Swaziland",
+    "nationality": "Swazi",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "748",
+      "alpha2": "SZ",
+      "alpha3": "SWZ"
+    }
+  },
+  {
+    "name": "Sweden",
+    "nationality": "Swedish",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "752",
+      "alpha2": "SE",
+      "alpha3": "SWE"
+    }
+  },
+  {
+    "name": "Switzerland",
+    "nationality": "Swiss",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "756",
+      "alpha2": "CH",
+      "alpha3": "CHE"
+    }
+  },
+  {
+    "name": "Syria",
+    "nationality": "Syrian",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "760",
+      "alpha2": "SY",
+      "alpha3": "SYR"
+    }
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "nationality": "São Toméan",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "678",
+      "alpha2": "ST",
+      "alpha3": "STP"
+    }
+  },
+  {
+    "name": "Taiwan",
+    "nationality": "Chinese, Taiwanese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "158",
+      "alpha2": "TW",
+      "alpha3": "TWN"
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "nationality": "Tajikistani",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "762",
+      "alpha2": "TJ",
+      "alpha3": "TJK"
+    }
+  },
+  {
+    "name": "Tanzania",
+    "nationality": "Tanzanian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "834",
+      "alpha2": "TZ",
+      "alpha3": "TZA"
+    }
+  },
+  {
+    "name": "Thailand",
+    "nationality": "Thai",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "764",
+      "alpha2": "TH",
+      "alpha3": "THA"
+    }
+  },
+  {
+    "name": "Togo",
+    "nationality": "Togolese",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "768",
+      "alpha2": "TG",
+      "alpha3": "TGO"
+    }
+  },
+  {
+    "name": "Tokelau",
+    "nationality": "Tokelauan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "772",
+      "alpha2": "TK",
+      "alpha3": "TKL"
+    }
+  },
+  {
+    "name": "Tonga",
+    "nationality": "Tongan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "776",
+      "alpha2": "TO",
+      "alpha3": "TON"
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "alternateNames": [
+      "Trinidad & Tobago"
+    ],
+    "nationality": "Trinidadian or Tobagonian",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "780",
+      "alpha2": "TT",
+      "alpha3": "TTO"
+    }
+  },
+  {
+    "name": "Tunisia",
+    "nationality": "Tunisian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "788",
+      "alpha2": "TN",
+      "alpha3": "TUN"
+    }
+  },
+  {
+    "name": "Turkey",
+    "nationality": "Turkish",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "792",
+      "alpha2": "TR",
+      "alpha3": "TUR"
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "nationality": "Turkmen",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "795",
+      "alpha2": "TM",
+      "alpha3": "TKM"
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "nationality": "Turks and Caicos Island",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "796",
+      "alpha2": "TC",
+      "alpha3": "TCA"
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "nationality": "Tuvaluan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "798",
+      "alpha2": "TV",
+      "alpha3": "TUV"
+    }
+  },
+  {
+    "name": "U.S. Minor Outlying Islands",
+    "nationality": "American",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "581",
+      "alpha2": "UM",
+      "alpha3": "UMI"
+    }
+  },
+  {
+    "name": "U.S. Virgin Islands",
+    "alternateNames": [
+      "United States Virgin Islands"
+    ],
+    "nationality": "U.S. Virgin Island",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "850",
+      "alpha2": "VI",
+      "alpha3": "VIR"
+    }
+  },
+  {
+    "name": "Uganda",
+    "nationality": "Ugandan",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "800",
+      "alpha2": "UG",
+      "alpha3": "UGA"
+    }
+  },
+  {
+    "name": "Ukraine",
+    "nationality": "Ukrainian",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "804",
+      "alpha2": "UA",
+      "alpha3": "UKR"
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "nationality": "Emirati, Emirian, Emiri",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "784",
+      "alpha2": "AE",
+      "alpha3": "ARE"
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "nationality": "British, UK",
+    "continent": "EU",
+    "hasSubdivision": true,
+    "code": {
+      "numeric": "826",
+      "alpha2": "GB",
+      "alpha3": "GBR"
+    }
+  },
+  {
+    "name": "United States of America",
+    "nationality": "American",
+    "continent": "NA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "840",
+      "alpha2": "US",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Alaska",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7000",
+      "alpha2": "US-AK",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Connecticut",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7001",
+      "alpha2": "US-CT",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Maine",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7002",
+      "alpha2": "US-ME",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Massachusetts",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7003",
+      "alpha2": "US-MA",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "New Hampshire",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7004",
+      "alpha2": "US-NH",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "New York",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7005",
+      "alpha2": "US-NY",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Rhode Island",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7006",
+      "alpha2": "US-RI",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Vermont",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7007",
+      "alpha2": "US-VT",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Wisconsin",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7008",
+      "alpha2": "US-WI",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "California",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7009",
+      "alpha2": "US-CA",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Colorado",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7010",
+      "alpha2": "US-CO",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Hawaii",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7011",
+      "alpha2": "US-HI",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Idaho",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7012",
+      "alpha2": "US-ID",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Kansas",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7013",
+      "alpha2": "US-KS",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Montana",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7014",
+      "alpha2": "US-MT",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Nebraska",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7015",
+      "alpha2": "US-NE",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Nevada",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7016",
+      "alpha2": "US-NV",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "North Dakota",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7017",
+      "alpha2": "US-ND",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Oregon",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7018",
+      "alpha2": "US-OR",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "South Dakota",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7019",
+      "alpha2": "US-SD",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Utah",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7020",
+      "alpha2": "US-UT",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Washington",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7021",
+      "alpha2": "US-WA",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Wyoming",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7022",
+      "alpha2": "US-WY",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Delaware",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7023",
+      "alpha2": "US-DE",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Illinois",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7024",
+      "alpha2": "US-IL",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Indiana",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7025",
+      "alpha2": "US-IN",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Iowa",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7026",
+      "alpha2": "US-IA",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Kentucky",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7027",
+      "alpha2": "US-KY",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Maryland",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7028",
+      "alpha2": "US-MD",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Michigan",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7029",
+      "alpha2": "US-MI",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Minnesota",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7030",
+      "alpha2": "US-MN",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Missouri",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7031",
+      "alpha2": "US-MO",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "New Jersey",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7032",
+      "alpha2": "US-NJ",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "North Carolina",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7033",
+      "alpha2": "NH",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Ohio",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7034",
+      "alpha2": "OH",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Pennsylvania",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7035",
+      "alpha2": "US-PA",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "South Carolina",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7036",
+      "alpha2": "US-SC",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Tennessee",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7037",
+      "alpha2": "US-TN",
+      "alpha3": "USA"
+    }
+  },
+
+  {
+    "name": "Virginia",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7038",
+      "alpha2": "US-VA",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "West Virginia",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7039",
+      "alpha2": "US-WV",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Alabama",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7040",
+      "alpha2": "US-AL",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Arizona",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7041",
+      "alpha2": "US-AZ",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Arkansas",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7042",
+      "alpha2": "US-AR",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Florida",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7043",
+      "alpha2": "US-FL",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Louisiana",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7044",
+      "alpha2": "US-LA",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Mississippi",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7045",
+      "alpha2": "US-MS",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "New Mexico",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7046",
+      "alpha2": "US-NM",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Oklahoma",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7047",
+      "alpha2": "US-OK",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Texas",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7048",
+      "alpha2": "US-TX",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Anguilla",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7049",
+      "alpha2": "UI",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7050",
+      "alpha2": "TI",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Argentina",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7051",
+      "alpha2": "RG",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Aruba",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7052",
+      "alpha2": "RU",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Bahamas",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7053",
+      "alpha2": "HG",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Barbados",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7054",
+      "alpha2": "RB",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Belize",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7055",
+      "alpha2": "EL",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Bermuda",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7056",
+      "alpha2": "RM",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Bolivia",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7057",
+      "alpha2": "IV",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Bonaire",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7058",
+      "alpha2": "OE",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Brazil",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7059",
+      "alpha2": "RZ",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "British Virgin Islands",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7060",
+      "alpha2": "IH",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7061",
+      "alpha2": "CS",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Chile",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7062",
+      "alpha2": "HI",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Colombia",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7063",
+      "alpha2": "LM",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "French Guiana ",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7064",
+      "alpha2": "FG",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Guadalupe ",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7065",
+      "alpha2": "UP",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "Puerto Rico ",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7066",
+      "alpha2": "PU",
+      "alpha3": "USA"
+    }
+  },
+  {
+    "name": "US Virgin Islands",
+    "nationality": "American",
+    "continent": "NA",
+    "isState":true,
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "7067",
+      "alpha2": "UV",
+      "alpha3": "USA"
+    }
+  },
+ 
+  {
+    "name": "Uruguay",
+    "nationality": "Uruguayan",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "858",
+      "alpha2": "UY",
+      "alpha3": "URY"
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "nationality": "Uzbekistani, Uzbek",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "860",
+      "alpha2": "UZ",
+      "alpha3": "UZB"
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "nationality": "Ni-Vanuatu, Vanuatuan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "548",
+      "alpha2": "VU",
+      "alpha3": "VUT"
+    }
+  },
+  {
+    "name": "Vatican City",
+    "nationality": "Vatican",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "336",
+      "alpha2": "VA",
+      "alpha3": "VAT"
+    }
+  },
+  {
+    "name": "Venezuela",
+    "nationality": "Venezuelan",
+    "continent": "SA",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "862",
+      "alpha2": "VE",
+      "alpha3": "VEN"
+    }
+  },
+  {
+    "name": "Vietnam",
+    "nationality": "Vietnamese",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "704",
+      "alpha2": "VN",
+      "alpha3": "VNM"
+    }
+  },
+  {
+    "name": "Wales",
+    "nationality": "Welsh",
+    "code": {
+      "subdivision": "GB-WLS"
+    },
+    "hasSubdivision": false,
+    "continent": "EU"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "nationality": "Wallis and Futuna, Wallisian or Futunan",
+    "continent": "OC",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "876",
+      "alpha2": "WF",
+      "alpha3": "WLF"
+    }
+  },
+  {
+    "name": "Western Sahara",
+    "nationality": "Sahrawi, Sahrawian, Sahraouian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "732",
+      "alpha2": "EH",
+      "alpha3": "ESH"
+    }
+  },
+  {
+    "name": "Yemen",
+    "nationality": "Yemeni",
+    "continent": "AS",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "887",
+      "alpha2": "YE",
+      "alpha3": "YEM"
+    }
+  },
+  {
+    "name": "Zambia",
+    "nationality": "Zambian",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "894",
+      "alpha2": "ZM",
+      "alpha3": "ZMB"
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "nationality": "Zimbabwean",
+    "continent": "AF",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "716",
+      "alpha2": "ZW",
+      "alpha3": "ZWE"
+    }
+  },
+  {
+    "name": "Åland Islands",
+    "nationality": "Åland Island",
+    "continent": "EU",
+    "hasSubdivision": false,
+    "code": {
+      "numeric": "248",
+      "alpha2": "AX",
+      "alpha3": "ALA"
+    }
+  }
+]

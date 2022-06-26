@@ -1,0 +1,252 @@
+[
+    {
+        "fieldSize" : 2,
+        "cut" : 1,
+        "divisor":25
+    },
+    {
+        "fieldSize" : 3,
+        "cut" : 2,
+        "divisor": 16.7
+    },
+    {
+        "fieldSize" : 4,
+        "cut" : 2,
+        "divisor":12.5
+    },
+    {
+        "fieldSize" : 5,
+        "cut" : 3,
+        "divisor":10
+    },
+    {
+        "fieldSize" : 6,
+        "cut" : 3,
+        "divisor":8.3
+    },
+    {
+        "fieldSize" : 7,
+        "cut" : 4,
+        "divisor":7.1
+    },
+    {
+        "fieldSize" : 8,
+        "cut" : 4,
+        "divisor":6.3
+    },
+    {
+        "fieldSize" :9,
+        "cut" : 5,
+        "divisor":5.6
+    },
+    {
+        "fieldSize" :10,
+        "cut" : 5,
+        "divisor":5
+    },
+    {
+        "fieldSize" : 11,
+        "cut" :6,
+        "divisor":4.5
+    },
+    {
+        "fieldSize" : 12,
+        "cut" : 6,
+        "divisor":4.2
+    },
+    {
+        "fieldSize" : 13,
+        "cut" : 7,
+        "divisor":3.8
+    },
+    {
+        "fieldSize" : 14,
+        "cut" : 7,
+        "divisor":3.6
+    },
+    {
+        "fieldSize" : 15,
+        "cut" : 8,
+        "divisor":3.3
+    },
+    {
+        "fieldSize" : 16,
+        "cut" : 8,
+        "divisor":3.1
+    },
+    {
+        "fieldSize" : 17,
+        "cut" : 9,
+        "divisor":2.9
+    },
+    {
+        "fieldSize" : 18,
+        "cut" : 9,
+        "divisor":2.8
+    },
+    {
+        "fieldSize" : 19,
+        "cut" : 10,
+        "divisor":2.6
+    },
+    {
+        "fieldSize" : 20,
+        "cut" : 10,
+        "divisor":2.5
+    },
+    {
+        "fieldSize" : 21,
+        "cut" : 11,
+        "divisor":2.4
+    },
+    {
+        "fieldSize" : 22,
+        "cut" : 11,
+        "divisor":2.3
+    },
+    {
+        "fieldSize" : 23,
+        "cut" : 12,
+        "divisor":2.2
+    },
+    {
+        "fieldSize" : 24,
+        "cut" : 12,
+        "divisor":2.1
+    },
+    {
+        "fieldSize" : 25,
+        "cut" : 13,
+        "divisor":2
+    },
+    {
+        "fieldSize" : 26,
+        "cut" : 13,
+        "divisor":1.9
+    },
+    {
+        "fieldSize" : 27,
+        "cut" : 14,
+        "divisor":1.9
+    },
+    {
+        "fieldSize" : 28,
+        "cut" : 14,
+        "divisor":1.8
+    },
+    {
+        "fieldSize" : 29,
+        "cut" : 15,
+        "divisor":1.7
+    },
+    {
+        "fieldSize" : 30,
+        "cut" : 15,
+        "divisor":1.7
+    },
+    {
+        "fieldSize" : 31,
+        "cut" : 16,
+        "divisor":1.6
+    },
+    {
+        "fieldSize" : 32,
+        "cut" : 16,
+        "divisor":1.6
+    },
+    {
+        "fieldSize" : 33,
+        "cut" : 17,
+        "divisor":1.5
+    },
+    {
+        "fieldSize" : 34,
+        "cut" : 17,
+        "divisor":1.5
+    },
+    {
+        "fieldSize" : 35,
+        "cut" : 18,
+        "divisor":1.4
+    },
+    {
+        "fieldSize" : 36,
+        "cut" : 18,
+        "divisor":1.4
+    },
+    {
+        "fieldSize" : 37,
+        "cut" : 19,
+        "divisor":1.4
+    },
+    {
+        "fieldSize" : 38,
+        "cut" : 19,
+        "divisor":1.3
+    },
+    {
+        "fieldSize" : 39,
+        "cut" : 20,
+        "divisor":1.3
+    },
+    {
+        "fieldSize" : 40,
+        "cut" : 20,
+        "divisor":1.3
+    },
+    {
+        "fieldSize" : 41,
+        "cut" : 21,
+        "divisor":1.2
+    },
+    {
+        "fieldSize" : 42,
+        "cut" : 21,
+        "divisor":1.2
+    },
+    {
+        "fieldSize" : 43,
+        "cut" : 22,
+        "divisor":1.2
+    },
+    {
+        "fieldSize" : 44,
+        "cut" : 22,
+        "divisor":1.1
+    },
+    {
+        "fieldSize" : 44,
+        "cut" : 22,
+        "divisor":1.1
+    },
+    {
+        "fieldSize" : 45,
+        "cut" : 23,
+        "divisor":1.1
+    },
+    {
+        "fieldSize" : 46,
+        "cut" : 23,
+        "divisor":1.1
+    },
+    {
+        "fieldSize" : 47,
+        "cut" : 24,
+        "divisor":1.1
+    },
+    {
+        "fieldSize" : 48,
+        "cut" : 24,
+        "divisor":1
+    },
+    {
+        "fieldSize" : 49,
+        "cut" : 25,
+        "divisor":1
+    },
+    {
+        "fieldSize" : 50,
+        "cut" : 25,
+        "divisor":1
+    }
+]

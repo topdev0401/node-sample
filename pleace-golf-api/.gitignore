@@ -1,0 +1,19 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+# dependencies
+node_modules
+
+# misc
+.DS_Store
+Thumbs.db
+
+npm-debug.log*
+dist
+logs
+tools/*.json
+src/data/*.json
+
+# IDEs and editors
+.vs
+.idea
+*.iml
+assets/~$International Light June 2016.xlsx

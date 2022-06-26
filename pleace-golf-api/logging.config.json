@@ -1,0 +1,23 @@
+{
+    "development": {
+        "transports": [
+            {
+                "type": "console",
+                "level": "debug"
+            },
+            {
+                "type": "file",
+                "level": "debug",
+                "filename": "logs/-combined-dev.log"
+            }
+        ]
+    },
+    "production": {
+        "transports": [
+            {
+                "type": "console",
+                "level": "debug"
+            }
+        ]
+    }
+}
